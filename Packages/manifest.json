@@ -7,7 +7,7 @@
     "com.unity.timeline": "1.7.6",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.4",
-    "com.walletconnect.core": "https://github.com/WalletConnect/WalletConnectUnity.git?path=Packages/com.walletconnect.core",
+    "com.walletconnect.core": "https://github.com/WalletConnect/WalletConnectUnity.git?path=Packages/com.walletconnect.core#fix/default-chain-id-mm",
     "com.walletconnect.modal": "https://github.com/WalletConnect/WalletConnectUnity.git?path=Packages/com.walletconnect.modal",
     "com.walletconnect.ui": "https://github.com/WalletConnect/WalletConnectUnity.git?path=Packages/com.walletconnect.ui",
     "com.walletconnect.nethereum": "https://github.com/WalletConnect/WalletConnectUnity.git?path=Packages/com.walletconnect.nethereum",

@@ -150,13 +150,13 @@
       "url": "https://packages.unity.com"
     },
     "com.walletconnect.core": {
-      "version": "https://github.com/WalletConnect/WalletConnectUnity.git?path=Packages/com.walletconnect.core",
+      "version": "https://github.com/WalletConnect/WalletConnectUnity.git?path=Packages/com.walletconnect.core#fix/default-chain-id-mm",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
       },
-      "hash": "5e0ca091c0a17a193b5c37cc9363aa343cb9ff39"
+      "hash": "0143bee48bc574ea69ea77be23c2211feff8fa34"
     },
     "com.walletconnect.modal": {
       "version": "https://github.com/WalletConnect/WalletConnectUnity.git?path=Packages/com.walletconnect.modal",
